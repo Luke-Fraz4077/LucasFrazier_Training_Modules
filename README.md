@@ -12,3 +12,24 @@
 ![v7cjyb](https://github.com/Luke-Fraz4077/LucasFrazier_Training_Modules/assets/145143996/add14aa2-2ef4-45ef-a424-61586b063aab)
 
 https://www.youtube.com/watch?v=Opzq-hxYgfE)https://www.youtube.com/watch?v=Opzq-hxYgfE
+
+
+
+
+
+# Lucas Frazier Module Two
+
+## Answers:
+
+1. The PWD command prints the name of the current/working directory.
+2. The mkdir command is used to make new dircetories.
+3. The ls command is used to list the files in a directory.
+4. cd .. will take you back to the parent directory.
+5. If I wanted to copy a file named test.txt into the same directory, I would use the cp command,                                                                                                 put the name of the directory (not neccesary in this case), put the name of the file being copied,                                                                                                and then the name of the new copy of the file.
+
+
+
+![image](https://github.com/Luke-Fraz4077/LucasFrazier_Training_Modules/assets/145143996/68894703-75fb-4053-a913-648772b06a0d)
+
+
+
